@@ -1,0 +1,48 @@
+
+        body{
+            background-color:rgb(97, 138, 124);
+            color:whitesmoke;
+            /*text color*/
+            font-family:Georgia, 'Times New Roman', Times, serif;
+            font-size:larger;
+
+        }
+        h1{
+            font-family:'Courier New', Courier, monospace;
+            text-align: center;
+        }
+        h5{
+            text-align: center;
+            font-style: italic;
+        }
+        a{
+            color:aqua
+        }
+        a:visited{
+            color:darkgray
+        }
+        img{
+            border: 2px solid fuchsia;
+            padding: 3px;
+            margin: 5px;
+            /*display: block
+            margin: auto;*/
+        }
+        .imgcenter{
+            display:block;
+            margin: auto;
+        }
+        .rizz{
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            color:red
+            border: dashed black;
+            font-size: x-large;
+            text-align: center;
+        }
+        li{
+            text-decoration: overline;
+        }
+        li:hover{
+            text-decoration: underline;
+        }
+      
